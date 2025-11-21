@@ -1,3 +1,6 @@
 .DS_Store
 clustering/FLIGHTS.csv
 clustering/data_with_clusters.csv
+*.csv
+clustering/data_with_clusters.csv
+clustering/FLIGHTS.csv
